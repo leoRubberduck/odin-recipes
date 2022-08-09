@@ -1,0 +1,131 @@
+body {
+
+    background-color: bisque;
+
+
+
+    
+
+   
+}
+
+
+
+h1 {
+
+font-size: 100px;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: brown;
+
+}
+
+h2 {
+
+font-size: 200px;
+
+
+
+    font-stretch: extra-expanded;
+
+    font-size:  80px;
+}
+
+
+div {
+
+
+    padding: 30px;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #EEEEEE;
+
+  background-color: hotpink;
+
+
+
+
+
+
+
+
+
+}
+
+.top-section 
+{
+
+
+    background-image: url("https://i0.wp.com/vikingsonsofodin.com/wp-content/uploads/2022/04/plvnsaakzvz78uvjomc4.jpg?w=1280&ssl=1");
+
+    padding: 100px;
+
+    margin: 100px;
+
+    background-size: cover;
+
+    
+
+
+
+
+    
+
+    
+
+    
+
+
+  
+}
+
+.middle-section
+
+{
+
+    background-image: url("https://piratejewellery.com/wp-content/uploads/2022/04/Vikings-grow.jpg");
+
+    font-size: 50px;
+
+    font-style: oblique;
+
+ 
+
+    border solid: green;
+
+    border size 5px;
+
+    
+
+
+    
+
+
+
+}
+
+.bottom-section{
+
+
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/049/749/377/large/merlin-sokolowski-sokolowski-merlin.jpg?1653257275");
+
+
+    
+}
+
+a
+
+{
+
+    
+
+font-size: 100px;
+
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+ul {
+
+    font-size: 70pix;
+}
